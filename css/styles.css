@@ -28,12 +28,13 @@ section {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 5rem;
+	padding: 3%;
 	
 }
 section article {
 	border: 1px solid black;
 	box-shadow: 0 2px 14px grey;
-	padding: 2.5%;
+	padding: 3%;
 	width: 25%;
 	background-color: antiquewhite;
 }
