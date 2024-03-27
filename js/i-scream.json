@@ -21,5 +21,17 @@
         "type": "ice-cream",
         "ingredients": ["Strawberry Syrup", "Sprinkles", "Chocolate Base"],
         "image": "https://rlopezlara.github.io/24W-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+    },{
+        "name": "Pistachio",
+        "calories": 180,
+        "type": "ice-cream",
+        "ingredients": ["Pistachio mint", "Chocolate Chips", "Cookies Base"],
+        "image": "https://rlopezlara.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra1.svg"
+    },{
+        "name": "Mocha ice cream",
+        "calories": 330,
+        "type": "ice-cream",
+        "ingredients": ["Mocha Syrup", "Milk shake", "Chocolate Chips"],
+        "image": "https://rlopezlara.github.io/24W-JavaScript-03-Week11/images/ice-cream-xtra2.svg"
     }]
 }
